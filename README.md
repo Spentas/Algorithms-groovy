@@ -1,4 +1,5 @@
 # All Algorithms Implemented in Groovy
+
 ![alt text](https://raw.githubusercontent.com/groovy/artwork/master/medium.png)
 
 I slowly try to add all range of classic and modern algorithms and data structures to the repository.
